@@ -1,6 +1,8 @@
 #include <stdio.h>
-/*main - Prints "Programming is like building a multilingual puzzle" 
- *Return:0 upon completion
+/**
+ *main - this is the main function
+ *
+ *Return: always 0
  */
 int main(void)
 {
